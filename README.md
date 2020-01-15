@@ -1,6 +1,6 @@
 # Laravel Backup Manager
 
-Simple demo-project to manage the page of backup(create new backup & download & delete ):
+Simple demo-project to manage the page of backup(create new backup via[laravel backup](https://docs.spatie.be/laravel-backup/v6/introduction/) & download & delete ):
 
 ![Laravel Laravel Backup Manager screenshot](/Screen.png)
 
