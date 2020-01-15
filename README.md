@@ -13,5 +13,5 @@ Simple demo-project to manage the page of backup(create new backup & download & 
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
 - Run __php artisan key:generate__
-- Run __php artisan migrate 
+- Run __php artisan migrate__
 - That's it: launch the main URL, you will find __backup url__ . 
